@@ -1,3 +1,4 @@
-//made by self
+//what‘S up？
+
 char* strcpy(){
 }
